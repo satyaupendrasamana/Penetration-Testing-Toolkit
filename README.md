@@ -1,3 +1,9 @@
+ 
+![License](https://img.shields.io/badge/License-MIT-yellow.svg)  
+**Author:** [Shashi Samana](https://github.com/satyaupendrasamana)
+
+
+
 # Penetration Testing Toolkit
 
 A small collection of basic tools intended for learning and defensive testing:
@@ -14,9 +20,6 @@ A small collection of basic tools intended for learning and defensive testing:
 - Simple CLI interface and structured text-based results
 - Results written to the `results/` directory for review
 
----
-
-## Repository structure
 ---
 
 ## Repository structure
@@ -42,5 +45,18 @@ Penetration-Testing-Toolkit/
 ├── .gitignore
 ├── LICENSE
 └── README.md
+
+---
+
+Author
+
+Satya Upendra Samana
+B.Tech – Mechanical Engineering
+Aditya College of Engineering and Technology
+
+Credits
+
+This project was developed as part of the CODTECH IT SOLUTIONS PVT. LTD. Cybersecurity & Ethical Hacking Internship, with assistance from ChatGPT (OpenAI).
+
 
 
